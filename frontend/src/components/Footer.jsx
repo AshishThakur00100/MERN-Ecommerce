@@ -9,18 +9,18 @@ function Footer() {
         {/* Section1 */}
         <div className="footer-section contact">
             <h3>Contact Us</h3>
-            <p><Phone fontSize='small'/>Phone : +9865467888</p>
-            <p><Mail fontSize='small'/>Email : khanamtestad@gmail.com</p>
+            <p><Phone fontSize='small'/>Phone : +9570643133</p>
+            <p><Mail fontSize='small'/>Email : ashishthakur00100@gmail.com</p>
         </div>
 
         {/* Section2 */}
         <div className="footer-section social">
             <h3>Follow me</h3>
             <div className="social-links">
-                <a href="" target="_blank">
+                <a href="https://github.com/AshishThakur00100/ShopKaro" target="_blank">
                     <GitHub className='social-icon'/>
                 </a>
-                <a href="" target="_blank">
+                <a href="https://www.linkedin.com/in/ashishthakur00100" target="_blank">
                     <LinkedIn className='social-icon'/>
                 </a>
                 <a href="" target="_blank">
@@ -35,11 +35,11 @@ function Footer() {
         {/* Section3 */}
         <div className="footer-section about">
             <h3>About</h3>
-            <p>Providing web development tutorials and courses to help you grow your skills.</p>
+            <p>Shop on shopKaro and win exiciting prizes everyday...</p>
         </div>
     </div>
     <div className="footer-bottom">
-        <p>&copy; 2025 KhanamCoding . All rights reserved</p>
+        <p></p>
     </div>
    </footer>
   )

@@ -18,7 +18,7 @@ function CreateProduct() {
   const [image, setImage] = useState([]);
   const [imagePreview, setImagePreview] = useState([]);
 
-  const categories = ["glass", "shirt", "mobile", "dress", "tv","pant","jacket"];
+  const categories = ["laptops", "shirt", "mobile", "dress", "tv","pant","jacket"];
 
   const createProductSubmit=(e)=>{
     e.preventDefault();
